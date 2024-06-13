@@ -20,7 +20,7 @@ A combination of 4 dataset files is used given as follows:
 
 These datasets combined to form a single DATA MODULE.
 
-# Softeare used: IBM Cognos:
+# Software used: IBM Cognos:
 
 This case study comprises a pdf where the detailed solution is given.
 
