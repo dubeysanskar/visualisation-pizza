@@ -51,10 +51,15 @@ company's bottom line
 # Screenshots of the visualisation:
 
 1. ![image](https://github.com/dubeysanskar/visualisation-pizza-dummy/assets/119898620/75e82ffa-57d8-4b53-90ac-5560b995ae34)
+   
 2. ![image](https://github.com/dubeysanskar/visualisation-pizza-dummy/assets/119898620/34dcf298-7320-43e6-9828-0dddcd6c47a6)
+   
 3. ![image](https://github.com/dubeysanskar/visualisation-pizza-dummy/assets/119898620/2337ad86-9646-4a8c-bbe4-ee3c53dfd145)
+   
 4. ![image](https://github.com/dubeysanskar/visualisation-pizza-dummy/assets/119898620/ad0852a1-bb64-409b-a81f-8d3b3af6e311)
+   
 5. ![image](https://github.com/dubeysanskar/visualisation-pizza-dummy/assets/119898620/5a84ad8b-6c34-4bef-b281-0a5ca09b26a6)
+    
 
 For more details download the detailed report visualisation report above!!!
 
