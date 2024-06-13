@@ -1,7 +1,7 @@
 # NOTE: Please look at the solution PDF as visualisation report above.
 
-# Data Visualisation-Pizza Data set:
-# Problem Statements-
+
+# Data Visualisation-Pizza Data set: Problem Statements-
 
 This case study aims to address the following queries:
 1. What was the total revenue generated in 2015, organized by month and year?
